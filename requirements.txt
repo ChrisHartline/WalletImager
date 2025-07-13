@@ -1,0 +1,12 @@
+bitcoinlib
+Pillow
+openai
+python-dotenv
+
+
+
+
+
+
+
+

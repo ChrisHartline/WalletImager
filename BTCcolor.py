@@ -19,12 +19,11 @@ def visualize_address(address, grid_size):
         x2, y2 = x1 + cell_size, y1 + cell_size
         draw.rectangle((x1, y1, x2, y2), fill=base58_colors[char])
     
-    image.save('wallet_address_visualization.png')
+    image.save('wallet_address_visualization4.png')
 
 # Example usage
-address = '14yuWnyy1PESn2Etgmh88Yic4tgqMQAnQa'
-
-
+#address = '14  .... QAnQa'
+address = 'bc '
 
 #'1HtBYZ3poESWg5csdrz5CXpgqNtjzBH3J8'
 #'1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2' 
